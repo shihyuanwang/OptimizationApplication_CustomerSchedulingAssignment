@@ -12,5 +12,5 @@ To schedule family customers to Santa's Workshop in a way that minimizes the cos
 
 
 
-**Source: Kaggle competition - Santa's Workshop Tour 2019  https://www.kaggle.com/c/santa-workshop-tour-2019/overview**
+**Source: Kaggle Competition - Santa's Workshop Tour 2019  https://www.kaggle.com/c/santa-workshop-tour-2019/overview**
 
