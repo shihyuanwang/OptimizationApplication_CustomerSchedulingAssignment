@@ -10,7 +10,8 @@ To schedule family customers to Santa's Workshop in a way that minimizes the cos
 
 - In addition, the park 's accounting department has evaluated that, depending on how families are scheduled, there may be some unexpected costs incurred.
 
+https://github.com/shihyuanwang/OptimizationApplication_CustomerSchedulingAssignment/blob/main/Optimization%20Application%20Project_Shih-Yuan%20Wang.pdf
 
-
+--------------------------------------------------
 **Source: Kaggle Competition - Santa's Workshop Tour 2019  https://www.kaggle.com/c/santa-workshop-tour-2019/overview**
 
